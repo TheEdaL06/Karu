@@ -112,10 +112,10 @@ Some commands also mention more than one variable divided by a */*, meaning that
 
 This parameter means that Karu can search for the person, user or member that you want by means of a mention, it is of the forms that but it occupies to Karu.
 
- ![Ejemplo @user](https://i.imgur.com/XkqOTQC.gif)
+ ![Example @user](https://i.imgur.com/XkqOTQC.gif)
 
 ### ID
 
-This parameter means that Karu can also search for the person, user or member you want by means of their ID, it is an optional form to not mention that person. If you want to know more about IDS visit: [Este enlace](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-){:target="_blank"}
+This parameter means that Karu can also search for the person, user or member you want by means of their ID, it is an optional form to not mention that person. If you want to know more about IDS visit: [Este enlace](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 
-![Ejemplo ID](https://i.imgur.com/IP6wp0Q.gif)
+![Example ID](https://i.imgur.com/IP6wp0Q.gif)
