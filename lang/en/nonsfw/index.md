@@ -1,3 +1,7 @@
+<p style="text-align: center;"><b>Languages:</b></p>
+<p style="text-align: center;">English(Current) | <a href="https://bulzykrown.github.io/Karu/lang/es/nonsfw/"> Spanish</a></p>
+
+
 # Who am I?
 > Hello! My name is Karu n.n. I am 19 years old and I come here to help communities share unique and fun experiences. I can help you interact with other people, give them hugs, kisses, love... Many cute things :3.
 
