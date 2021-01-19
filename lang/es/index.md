@@ -1,118 +1,121 @@
-<p style="text-align: center;"><b>Lenguajes:</b></p>
-<p style="text-align: center;">Español(Actual) | <a href="https://bulzykrown.github.io/Karu/lang/en/"> Ingles</a></p>
+<p style="text-align: center;"><b>Idiomas:</b></p>
+<p style="text-align: center;"><a href="https://bulzykrown.github.io/Karu/lang/en/"> English</a> | Español (Actualmente)</p>
 
-# ¿Quien soy?
-> ¡Hola!, mi nombre es karu n.n. Tengo 16 años y vengo a discord a ayudar a las comunidades a compartir experiencias únicas y divertidas. Puedo ayudarte a interactuar con otras personas, darles abrazitos, besitos, cariñitos... Muchas cosas monas :3.
+
+
+# ¿Quién soy?
+> Hola! Mi nombre es Karu n.n. Tengo 16 años y vengo aquí para ayudar a las comunidades a compartir experiencias únicas y divertidas. Puedo ayudarte a interactuar con otras personas, darles abrazos, besos, amor... Muchas cosas lindas :3.
 
 ## Comandos
-- Todos mis comandos funcionan con el prefijo **//**
+- Todos mis comandos funcionan con el prefix **//**
 - Obligatorio `<>` / Opcional `[]`
-- Puedes usar `//h comando` para obtener más info de cada comando
+- Puedes usar `//h comando` para obtener más información sobre cada comando.
 - Lista de comandos **v0.7.12**
 
-### Tipos de comandos:
-- [Texto](#texto-)
-- [Fun](#imagen-)
-- [Reación](#reacción-)
-- [Interacción](#interación-)
+### Tipos de comando:
+- [Texto](#text-)
+- [Diversión](#fun-)
+- [Reacción](#reaction-)
+- [Interacción](#interaction-)
 - [Información](#información-)
 - [NSFW](#nsfw-)
 
-### Antes de comenzar con los comandos:
-- [**Estado de los comandos**](#estado-de-los-comandos-)
-- [¿Que es una variable?](#que-es-una-variable-)
+### Antes de empezar con los comandos:
+- [**Estado de los comandos**](#command-status-)
+- [¿Qué es una variable?](#what-is-a-variable-)
 
-### Texto [🔺](#content)
+### Texto [🔺](#comandos)
 
-|Comando|Uso|Ejemplo|Variables
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|8ball|¿Quieres que adivine tu futuro? **Solo ingles**|//8ball `<Mensaje>`|Ninguno
-|bola8|¿Quieres que adivine tu futuro? **Solo español**|//bola8 `<Mensaje>`|Ninguno
-|say|Podrás enviar un mensaje por medio de mi| //say `<Mensaje>`| Ninguno
-|embed|Similar a *say*, pero tipo Embed|//esay `<Mensaje>`| Ninguno
+|8ball|¿Quieres que adivine tu futuro? **Sólo Inglés**|`lucky`, `8b`|`<Message>`
+|bola8|¿Quieres que adivine tu futuro? **Sólo Español**|`b8`|`<Message>`
+|say|Puedes enviar un mensaje a través de mí| `send`|`<Message>`
+|embed|Similar a *say*, pero con un Embed|`embedsay`, `esay`|`<Message>`
 
-### Imagen [🔺](#content)
+### Imágenes [🔺](#comandos)
 
-|Comando|Uso|Ejemplo|Variables
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|cat|Muestra imágenes de gatitos|//cat|Ninguno
-|dog|Muestra imágenes de perritos|//dog|Ninguno
-|neko|Muestra imágenes de chicas con orejitas|//neko|Ninguno
-|xbox|Genera una imágen de un logro de xbox con el mensaje que quieras|//xbox Soy un dios|`<Mensaje>`
-|achievement|Genera una imágen de un logro de Minecraft con el mensaje que quieras|//arch owo uwu|`<Mensaje>`
+|cat|Mostrar imágenes de gatitos|`c`, `meow`, `kitty`, `kittens`, `gatos`|Ninguno
+|avatar|Muestra el avatar de ti o de algún usuario| `av`|[mención]
+|captcha|Captcha bot|`norobot`| Texto
+|delete|Borra esto|`dthis`|Ninguno
+|memehub|PH meme|`mhub`|Text1, Text2
+|thinking|Emoji ramdon 🤔|`thinkemoji`|Ninguno
+|transformice|Muestra imágenes para usar como imagen de perfil|`tf`, `tpic`|Ninguno
+|wasted|Bruh, no hay necesidad de explicar|Ninguno|Ninguno
+|magik|Distorsionar las imágenes (png, jpeg, NO GIF)| Ninguno|Imagen/url/mención
+|dog|Muestra fotos de perros|`dg`, `woof`, `inu`, `perros`, `perro`|Ninguno
+|neko|Muestra fotos de chicas con orejas pequeñas|`fgirl`,`cgirl`|Ninguno
+|achievement|El logro de desbloquear de Minecraft |`minecraft`, `mine`,`achieve`|`<Texto1 | Texto2>`
 
+### Reacción [🔺](#comandos)
 
-### Reacción [🔺](#content)
-
-|Comando|Uso|Ejemplo|Variables
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|blush|Muestra un gif o imágen de una persona sonrojada|//blush|Ninguno
-|cry|Muestra un gif o imágen de una persona llorando|//cry|Ninguno
-|eat|Muestra un gif o imágen de una persona comiendo|//eat|Ninguno
-|dance|Muestra un gif o imágen de una persona bailando|//dance|Ninguno
-|doubt|Muestra un gif o imágen de una persona dudosa|//?|Ninguno
-|disgust|Muestra accion de estar disgustado|//disgust|Ninguno
+|blush|¿Te estás sonrojando por algo o alguien?|`brr`,`bl`|Ninguno
+|cry|No te sientas triste, si lo estás, usa este comando para expresarlo|`crying`,`llorar`,`sad`|Ninguno
+|dab|Haz un dab|Ninguno|Ninguno
+|eat|¿Te hicieron querer comer?|`nom`|Ninguno
+|dance|¿Alguna vez empezaste a bailar así porque sí?|Ninguno|Ninguno
+|doubt|¿Alguien ha dicho algo y no sabes lo que ha dicho o lo que ha hecho?|`?`|Ninguno
+|disgust|Generar acción: 'estar molesto'|`upset`|Ninguno
+|laugh|Reacciona con una risa|Ninguno|Ninguno
 
 
-### Interación [🔺](#content)
+### Interacción [🔺](#comandos)
 
-|Comando|Uso|Ejemplo|Variables
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|hug|Da abrazos a una o más personas|//hug|`<@user/ID/nombre>`
-|kill|Asesina a una o más personas con este comando|//kill|`<@user/ID/nombre>`
-|kiss|Besa a una o más personas|//kiss|`<@user/ID/nombre>`
-|lick|Lame a una o más personas|//lick|`<@user/ID/nombre>`
-|pat|Acaricia a una o más personas|//pat|`<@user/ID/nombre>`
-|slap|Abofetea a una o más personas|//slap|`<@user/ID/nombre>`
-|bang|Balea a una o más personas|//bang|`<@user/ID/nombre>`
-|insult|Insulta a una o más personas|//insult|`<@user/ID/nombre>`
-|cuddle|Acaricia a una o más personas|//cuddle|`<@user/ID/nombre>`
+|bite|Muerde a alguien|Ninguno|`<@usuario> [@usuario2]...`
+|hug|Dar abrazos a una o más personas|Ninguno|`<@usuario> [@usuario2]...`
+|kill|Mata a una o más personas con este comando|Ninguno|`<@usuario> [@usuario2]...`
+|kiss|Besa a una o más personas...|Ninguno|`<@usuario> [@usuario2]...`
+|lick|Lame a una o más personas|Ninguno|`<@usuario> [@usuario2]...`
+|pat|Acariciar a una o más personas|Ninguno|`<@usuario> [@usuario2]...`
+|slap|Abofetear a una o más personas|Ninguno|`<@usuario> [@usuario2]...`
+|Shoot|Dispara a una o más personas|Ninguno|`<@usuario> [@usuario2]...`
+|cuddle|Acurrucarse a alguien|Ninguno|`<@usuario> [@usuario2]...`
 
+### Información [🔺](#commands)
 
-### Información [🔺](#content)
-
-|Comando|Uso|Ejemplo|Variables
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|help|Muestra un menú de ayuda|//help|`<nombre/alias>`
-|invite|Invita al bot con el enlace que te mostrara|//invite|Ninguno
-|ping|Muestra la latencia del bot con la API de Discord y el tiempo que tarda en enviar el mensaje desde el servidor de karu|//ping|Ninguno
-|sinfo|Ve información del servidor actual|//sinfo|Ninguno
-|uinfo|Ve tu información dentro del servidor o de algún usuario|//uinfo|`[@usuario/ID/nombre]`
-|covid|Muestra información respecto a las estadisticas del covid-19|//cov list|`[ciudad/list]`
-|infoInvite|Revisa información de una invitación de Discord|//ii halo|Ninguno
-|servers|Revisa los servidores y usuarios que ve Karu|//servers|Ninguno
-|snipe|Muestra el ultimo mensaje borrado en el canal|//snipe|Ninguno
+|help|Muestra un menú de ayuda|`h`, `ayuda`|`<nombre/alias> [Nombre del comando]`
+|invite|Invita a Karu con el enlace que te mostrará|`inv`,`share`,`invitar`|Ninguno
+|ping|Muestra la latencia del bot con el Discord API y el tiempo que tarda en enviar el mensaje desde el servidor Karu|`p`,`pong`|Ninguno
+|sinfo|Ver la información actual del servidor	|`sinfo`, `si`,`server`|NoNingunone
+|uinfo|Ver su información dentro del servidor o de un usuario|`uinfo`,`ui`|`[@user]`
+|covid|Muestra información sobre las estadísticas del Covid-19|`cov`,`corona`,`coronavirus`|`[city/list/global]`
+|infoinv|Revisar la información de una invitación a la Discord|`ii`|Ninguno
 
-### NSFW [🔺](#content)
 
-|Comando|Uso|Ejemplo|Variables
+### NSFW [🔺](#comandos)
+
+|Comando|Descripción|Alias|Variables
 |--|--|--|--|
-|egasm|Presenta emojis con estilo de "satisfacción"|//egasm|Ninguno
-|fuck|Folla a una o más personas a la vez|//fuck|`<@usuario/ID/nombre>`
-|hentai|Muestra imágenes y gifs heroticas del mundo del anime|//hentai|`<rc/list>`
-|rule34|Muestra contenido "rule 34"|//r34|`<rc/list/busqueda>`
-|porngif|Envia imagenes aletorias de gif pornos|//pgif|Ninguno
-
-## Estado de los comandos [🔺](#content)
-Con el fin de estar informado sobre lo que puede suceder con los comandos, he decidido mostrárselos de una manera más llamativa.
-He dispuesto un servidor de soporte que reporta de manera general los problemas que pueda tener el bot o los comandos, aqui el enlace:
-
-[![OwO](https://discordapp.com/api/guilds/410613670322634754/embed.png?style=banner2)](https://discord.gg/VzfsckK)
+|boobs|Enviar imágenes de tetas|`boob`|Ninguno
+|egasm|Genera "gasm" emojis|`emojigasm`,`gasm`|Ninguno
+|fuck|Jode a una o más personas a la vez|`bang`|`<@usuario> [@usuario2]...`
+|spank|Azota a quien quieras|Ninguno|`<@usuario> [@usuario2]...`
+|hentai|Mostrar imágenes sexuales y gifs del mundo del anime|`hen`|`<rc/list>`
+|rule34|Muestra el contenido de "rule 34"|//r34|`<rc/list/search>`
 
 
-## ¿Que es una variable? [🔺](#content)
-Cuando hablamos de variables, significa que tenemos mas de un solo parámetro con el cual Karu puede identificar el comando. En esta sección te pasare a enseñar que variables que puedes usar con Karu en algunos comandos.
+## ¿Qué es una variable? [🔺](#comandos)
+Cuando hablamos de variables, significa que tenemos más de un parámetro con el que Karu puede identificar el comando. En esta sección voy a mostrarle qué variables puede usar con Karu en algunos comandos.
 
-También se mencionan en algunos comandos mas de una variable dividida por un */*, significa que puedes ocupar solo una de las opciones. Otro caso es el de los comandos NSFW, te pondre un ejemplo con el de  `//hentai`, tiene un sub-comando que llama una lista, `//hentai list`, si usas alguno de esos parametros seria por ejemplo...  `//hentai classic` y **no** `//hentai list classic`.
+Algunos comandos también mencionan más de una variable dividida por un */*, lo que significa que puedes ocupar sólo una de las opciones. Otro caso es el de los comandos de NSFW, te daré un ejemplo con el de `//hentai`, tiene un subcomando que llama a una lista, `//hentai list`, si usas algunos de esos parámetros sería por ejemplo...  "//hentai classic" y "no" "//hentai list classic".
 
-### @user
+### @usuario
 
-Este parametro significa que Karu puede buscar a la persona, usuario o miembro que quieres por medio de una mención, es de las formas que mas se ocupa a Karu.
+Este parámetro significa que Karu puede buscar la persona, usuario o miembro que desee mediante una mención, es de las formas que mas ocupa a Karu.
 
- ![Ejemplo @user](https://i.imgur.com/XkqOTQC.gif)
+ ![Ejemplo @usuario](https://i.imgur.com/XkqOTQC.gif)
 
 ### ID
 
-Este parametro significa que Karu tambien puede buscar a la persona, usuario o miembro que quieres por medio de su ID, es una forma opcional para no mencionar a esa persona. Si quieres saber más sobre las IDS visita: [Este enlace](https://support.discordapp.com/hc/es/articles/206346498--D%C3%B3nde-puedo-encontrar-mi-ID-de-usuario-servidor-mensaje-){:target="_blank"}
+Este parámetro significa que Karu también puede buscar la persona, usuario o miembro que desee por medio de su identificación, es una forma opcional de no mencionar a esa persona. Si quieres saber más sobre el ID visita: [Este enlace](https://support.discordapp.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-)
 
 ![Ejemplo ID](https://i.imgur.com/IP6wp0Q.gif)
