@@ -1,5 +1,5 @@
 <p style="text-align: center;"><b>Lenguajes:</b></p>
-<p style="text-align: center;"><a href="https://bulzykrown.github.io/Karu/lang/en/nonsfw/"> Español(Actual)</a> | Ingles</p>
+<p style="text-align: center;">Español(Actual) | <a href="https://bulzykrown.github.io/Karu/lang/en/nonsfw/">Ingles</a></p>
 
 # ¿Quien soy?
 > ¡Hola!, mi nombre es karu n.n. Tengo 16 años y vengo a discord a ayudar a las comunidades a compartir experiencias únicas y divertidas. Puedo ayudarte a interactuar con otras personas, darles abrazitos, besitos, cariñitos... Muchas cosas monas :3.
