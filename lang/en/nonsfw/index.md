@@ -1,5 +1,5 @@
 <p style="text-align: center;"><b>Languages:</b></p>
-<p style="text-align: center;">English(Current) | <a href="https://bulzykrown.github.io/Karu/lang/es/nonsfw/"> Spanish</a></p>
+<p style="text-align: center;"><a href="https://bulzykrown.github.io/Karu/lang/es/nonsfw/"> Spanish</a> | English(Current)</p>
 
 
 # Who am I?
