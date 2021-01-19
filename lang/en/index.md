@@ -4,7 +4,7 @@
 
 
 # Who am I?
-> Hello! My name is Karu n.n. I am 19 years old and I come here to help communities share unique and fun experiences. I can help you interact with other people, give them hugs, kisses, love... Many cute things :3.
+> Hello! My name is Karu n.n. I am 16 years old and I come here to help communities share unique and fun experiences. I can help you interact with other people, give them hugs, kisses, love... Many cute things :3.
 
 ## Commands
 - All my commands work with the prefix **//**
