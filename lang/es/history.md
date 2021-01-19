@@ -1,5 +1,5 @@
-<p style="text-align: center;"><b>Languages:</b></p>
-<p style="text-align: center;"><a href="https://bulzykrown.github.io/karu-en/history.html"> Ingles</a> | Español(Actual)</p>
+<p style="text-align: center;"><b>Lenguajes:</b></p>
+<p style="text-align: center;">Español(Actual) | <a href="https://bulzykrown.github.io/Karu/lang/en/history"> Ingles</a></p>
 
 ## Nacimiento de Karu
 
