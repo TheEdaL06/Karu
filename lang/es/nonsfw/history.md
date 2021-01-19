@@ -1,3 +1,6 @@
+<p style="text-align: center;"><b>Lenguajes:</b></p>
+<p style="text-align: center;">Español(Actual) | <a href="https://bulzykrown.github.io/Karu/lang/en/nonsfw/history">Ingles</a></p>
+
 ## Nacimiento de Karu
 
 karu en la mitología neocitadima nórdica interés parcial era la reina de los dioses, proviene de la constelación Orion, exactamente en el sistema solar Âlpha Centauri, aproximadamente a 0,21 años luz, pero, se preguntaran como viajo tanto karu y como llegó hasta acá, pues yo he venido para explicar su historia...
