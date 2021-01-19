@@ -1,3 +1,6 @@
+<p style="text-align: center;"><b>Languages:</b></p>
+<p style="text-align: center;"><a href="https://bulzykrown.github.io/Karu/lang/es/history">Spanish</a> | English(Current)</p>
+
 ## Birth of Karu
 
 Karu, in the Nordic mythology, was the queen of the gods. She comes from the constellation Orion, exactly in the solar system Âlpha Centauri, approximately 0.21 light years away, but, you may wonder how Karu traveled and how she got here, because I have come to explain her story...
